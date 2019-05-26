@@ -21,12 +21,16 @@ class ArrayTest {
     	 
     	  Array_A[k]=rand.nextInt(10);
     	 
-      }*/
-  /*     int [] Array_A = new int[200000];
+      }
+  */
+ 
+		
+   /*     int [] Array_A = new int[200000];
        
        for(int n=0;n<Array_A.length;n++) {
     	   Array_A[n]=n;
-       }*/
+       }
+   */
       
 		int M=-1,i=1;
 		
